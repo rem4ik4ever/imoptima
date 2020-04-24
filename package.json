@@ -6,7 +6,9 @@
   "author": "Rem Kim",
   "license": "MIT",
   "dependencies": {
+    "@types/node-fetch": "^2.5.7",
     "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.0",
     "sharp": "^0.25.2"
   },
   "devDependencies": {
